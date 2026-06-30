@@ -1,0 +1,40 @@
+# ── Scan outputs / sensitive data — NEVER commit these ─────────────────────
+report.json
+report.cache.json
+*.cache.json
+quarantine/
+*.report.json
+
+# ── Bundled Python runtime (belongs in a Release artifact, not the repo) ───
+python.exe
+pythonw.exe
+python3.dll
+python314.dll
+vcruntime140.dll
+vcruntime140_1.dll
+Lib/
+Scripts/
+DLLs/
+*.pyd
+
+# ── PyInstaller build output ────────────────────────────────────────────────
+build/
+dist/
+*.spec.bak
+
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# ── Streamlit ────────────────────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── OS / editor cruft ─────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
