@@ -114,5 +114,6 @@ See [LICENSE.txt](LICENSE.txt).
 
 <img width="1356" height="617" alt="Screenshot 2026-06-30 113349" src="https://github.com/user-attachments/assets/0d5ad762-9ed2-49cb-a4a0-c5c0a5cc4f03" />
 
-<img width="1327" height="532" alt="Screenshot 2026-06-30 113555" src="https://github.com/user-attachments/assets/891a2505-f84e-4854-8eb7-66b8d9ebf191" />
+<img width="1327" height="532" alt="Screenshot 2026-06-30 113555" src="https://github.com/user-attachments/assets/33032f3b-7c4d-48c7-9f33-731f49a5004b" />
+
 
