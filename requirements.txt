@@ -1,0 +1,10 @@
+markitdown[all]
+pypdf
+msoffcrypto-tool
+rich
+streamlit
+pandas
+openpyxl
+PyMuPDF
+pytesseract
+Pillow
